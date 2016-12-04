@@ -15,7 +15,8 @@
  * @wordpress-plugin
  * Plugin Name:       WoW Api Tools
  * Plugin URI:        https://github.com/insanepoet/WoWAT
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       A set of tools aiding users in building World of Warcraft Guild or Fan Sites. WoW Api Tools digest the RESTful API
+provided at http://dev.battle.net and provide the necessary functions to integrate responses into your Wordpress Site.
  * Version:           1.0.0
  * Author:            Insanepoet
  * Author URI:        hoaguild.com
