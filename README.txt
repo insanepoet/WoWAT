@@ -9,6 +9,8 @@ License URI: https://www.gnu.org/licenses/gpl-3.0.html
 A set of tools aiding users in building World of Warcraft Guild or Fan Sites. WoW Api Tools digest the RESTful API
 provided at http://dev.battle.net and provide the necessary functions to integrate responses into your Wordpress Site.
 
+HEAVILY UNDER CONSTRUCTION -- DO NOT USE ON A LIVE SITE AT THIS TIME
+
 == Description ==
 
 An integration of the Battle.net API's with an emphasis on the World of Warcraft data available. 
